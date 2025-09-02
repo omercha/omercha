@@ -1,4 +1,10 @@
-## Hi there 👋
+```yaml                                                                      
+
+ Z      |\      _,,,---,,_
+  Z    / ,`.-'`'   -.  ;-,'-,,_
+   Zz  |,4-  ) )-,_. ´\ (  `'-,##>
+      ' --''(_/--'  `-'\_)                              
+```
 
 <!--
 **omercha/omercha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
