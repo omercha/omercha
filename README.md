@@ -1,22 +1,11 @@
-```yaml                                                                      
-
+```yaml
+ z                                                                      
  Z      |\      _,,,---,,_
-  Z    / ,`.-'`'   -.  ;-,'-,,_
+  Z    / ,`.-'`'   -.  ;-,'-,,_                > Omer // 21, London-based CS student
    Zz  |,4-  ) )-,_. ´\ (  `'-,##>
       ' --''(_/--'  `-'\_)                              
 ```
 
-<!--
-**omercha/omercha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"> <img alt="omercha's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=omercha&theme=react-dark&hide_border=true&radius=8&area=true&bg_color=0e1117&custom_title=Activity" /> </a>
