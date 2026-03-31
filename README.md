@@ -2,7 +2,7 @@
  z                                                                      
  Z      |\      _,,,---,,_
   Z    / ,`.-'`'   -.  ;-,'-,,_                > CS student in London
-   Zz  |,4-  ) )-,_. ´\ (  `'-,##>             > Swift/iOS developer
+   Zz  |,4-  ) )-,_. ´\ (  `'-,##>             > Web/iOS developer
       ' --''(_/--'  `-'\_)                              
 ```
 
