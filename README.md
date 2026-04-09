@@ -1,8 +1,8 @@
 ```yaml
  z                                                                      
  Z      |\      _,,,---,,_
-  Z    / ,`.-'`'   -.  ;-,'-,,_                > CS student in London
-   Zz  |,4-  ) )-,_. ´\ (  `'-,##>             > Web/iOS developer
+  Z    / ,`.-'`'   -.  ;-,'-,,_                > CS Student in London
+   Zz  |,4-  ) )-,_. ´\ (  `'-,##>             > Building iOS apps
       ' --''(_/--'  `-'\_)                              
 ```
 
