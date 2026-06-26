@@ -3,7 +3,7 @@
  Z      |\      _,,,---,,_
   Z    / ,`.-'`'   -.  ;-,'-,,_                > I'm Omer, an iOS Engineer Intern in London
    Zz  |,4-  ) )-,_. ´\ (  `'-,##>             > Currently working on the mobile banking experience at SumUp
-      ' --''(_/--'  `-'\_)                     > I also enjoy video games, working out and competitive programming x)
+      ' --''(_/--'  `-'\_)                     > I also enjoy video games, working out and competitive programming!
 ```
 
   ---
